@@ -2,7 +2,7 @@
   "name": "webapp-boilerplate",
   "version": "0.0.1",
   "description": "Description goes here.",
-  "main": "app.js",
+  "main": "src/app.js",
   "scripts": {
     "start": "node ./src/app",
     "test": "echo \"Error: no test specified\" && exit 1",
